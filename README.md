@@ -105,3 +105,5 @@ BSD-2-Clause • [github](https://github.com/audio-tools/bpmcalc)
 # Touch update: 1761220066
 
 # Touch update: 1761220066
+
+# PR Merge: 2025-10-23 - enhancement/merge-4793
